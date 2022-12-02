@@ -16,7 +16,7 @@ I'm a neuroscientist broadly interested in neuroplasticity in brain circuits tha
 
 
 ---
-> There's no shame in failing. The only shame is not giving things your best shot. - Robin Williams
+>"There's no shame in failing. The only shame is not giving things your best shot." - Robin Williams
   
 <!--
 **anowlan/anowlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
